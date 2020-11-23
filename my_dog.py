@@ -16,4 +16,4 @@ print(third_dog.name, second_dog.breed)
 
 print(first_dog.bark())
 print(second_dog.roll())
-print(third_dog.sit())
+print(third_dog.name, third_dog.sit())

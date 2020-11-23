@@ -11,5 +11,5 @@ class Dog:
     def roll(self):
         print("<> rolls over")
 
-    def sit(seld):
+    def sit(self):
         print("<> sits")
